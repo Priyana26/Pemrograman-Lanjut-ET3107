@@ -1,3 +1,4 @@
+print("tugas pemrograman 1: Konverter Bahasa Alay")
 word=input("masukkan kata atau kalimat: ")
 vocals=['a','e','i','o','u']
 for ch in word.lower():
